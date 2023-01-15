@@ -1,4 +1,4 @@
-# ANLY-590-Project
+# FACE MASK DETECTION
 ### Dataset Link: https://drive.google.com/drive/folders/1NXtMM8Zn0P59CNYggf79vOwIq19ilKY6?usp=share_link
 ### Environment setup
 1. Clone and Setup Virtual Env
